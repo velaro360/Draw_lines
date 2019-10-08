@@ -1,0 +1,10 @@
+C:\Users\grzep\source\repos\testPikseli\testPikseli\bin\Debug\testPikseli.exe.config
+C:\Users\grzep\source\repos\testPikseli\testPikseli\bin\Debug\testPikseli.exe
+C:\Users\grzep\source\repos\testPikseli\testPikseli\bin\Debug\testPikseli.pdb
+C:\Users\grzep\source\repos\testPikseli\testPikseli\obj\Debug\testPikseli.csprojAssemblyReference.cache
+C:\Users\grzep\source\repos\testPikseli\testPikseli\obj\Debug\testPikseli.Properties.Resources.resources
+C:\Users\grzep\source\repos\testPikseli\testPikseli\obj\Debug\testPikseli.csproj.GenerateResource.cache
+C:\Users\grzep\source\repos\testPikseli\testPikseli\obj\Debug\testPikseli.csproj.CoreCompileInputs.cache
+C:\Users\grzep\source\repos\testPikseli\testPikseli\obj\Debug\testPikseli.exe
+C:\Users\grzep\source\repos\testPikseli\testPikseli\obj\Debug\testPikseli.pdb
+C:\Users\grzep\source\repos\testPikseli\testPikseli\obj\Debug\testPikseli.Form1.resources

@@ -1,0 +1,20 @@
+C:\Users\grzep\source\repos\Projekt 1 - Grzegorz Jarząbek\Projekt 1 - Grzegorz Jarząbek\bin\Debug\testPikseli.exe.config
+C:\Users\grzep\source\repos\Projekt 1 - Grzegorz Jarząbek\Projekt 1 - Grzegorz Jarząbek\bin\Debug\testPikseli.exe
+C:\Users\grzep\source\repos\Projekt 1 - Grzegorz Jarząbek\Projekt 1 - Grzegorz Jarząbek\bin\Debug\testPikseli.pdb
+C:\Users\grzep\source\repos\Projekt 1 - Grzegorz Jarząbek\Projekt 1 - Grzegorz Jarząbek\obj\Debug\Draw_lines.csprojAssemblyReference.cache
+C:\Users\grzep\source\repos\Projekt 1 - Grzegorz Jarząbek\Projekt 1 - Grzegorz Jarząbek\obj\Debug\Draw_lines.Form1.resources
+C:\Users\grzep\source\repos\Projekt 1 - Grzegorz Jarząbek\Projekt 1 - Grzegorz Jarząbek\obj\Debug\testPikseli.Properties.Resources.resources
+C:\Users\grzep\source\repos\Projekt 1 - Grzegorz Jarząbek\Projekt 1 - Grzegorz Jarząbek\obj\Debug\Draw_lines.csproj.GenerateResource.cache
+C:\Users\grzep\source\repos\Projekt 1 - Grzegorz Jarząbek\Projekt 1 - Grzegorz Jarząbek\obj\Debug\Draw_lines.csproj.CoreCompileInputs.cache
+C:\Users\grzep\source\repos\Projekt 1 - Grzegorz Jarząbek\Projekt 1 - Grzegorz Jarząbek\obj\Debug\testPikseli.exe
+C:\Users\grzep\source\repos\Projekt 1 - Grzegorz Jarząbek\Projekt 1 - Grzegorz Jarząbek\obj\Debug\testPikseli.pdb
+C:\Users\grzep\source\repos\Draw_lines\Draw_lines\bin\Debug\testPikseli.exe.config
+C:\Users\grzep\source\repos\Draw_lines\Draw_lines\bin\Debug\testPikseli.exe
+C:\Users\grzep\source\repos\Draw_lines\Draw_lines\bin\Debug\testPikseli.pdb
+C:\Users\grzep\source\repos\Draw_lines\Draw_lines\obj\Debug\Draw_lines.csprojAssemblyReference.cache
+C:\Users\grzep\source\repos\Draw_lines\Draw_lines\obj\Debug\Draw_lines.Form1.resources
+C:\Users\grzep\source\repos\Draw_lines\Draw_lines\obj\Debug\testPikseli.Properties.Resources.resources
+C:\Users\grzep\source\repos\Draw_lines\Draw_lines\obj\Debug\Draw_lines.csproj.GenerateResource.cache
+C:\Users\grzep\source\repos\Draw_lines\Draw_lines\obj\Debug\Draw_lines.csproj.CoreCompileInputs.cache
+C:\Users\grzep\source\repos\Draw_lines\Draw_lines\obj\Debug\testPikseli.exe
+C:\Users\grzep\source\repos\Draw_lines\Draw_lines\obj\Debug\testPikseli.pdb

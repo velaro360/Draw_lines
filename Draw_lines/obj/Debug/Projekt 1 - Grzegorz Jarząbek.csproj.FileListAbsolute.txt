@@ -1,0 +1,20 @@
+C:\Users\grzep\source\repos\testPikseli\testPikseli\bin\Debug\testPikseli.exe.config
+C:\Users\grzep\source\repos\testPikseli\testPikseli\bin\Debug\testPikseli.exe
+C:\Users\grzep\source\repos\testPikseli\testPikseli\bin\Debug\testPikseli.pdb
+C:\Users\grzep\source\repos\testPikseli\testPikseli\obj\Debug\Projekt 1 - Grzegorz Jarząbek.csprojAssemblyReference.cache
+C:\Users\grzep\source\repos\testPikseli\testPikseli\obj\Debug\Projekt_1_Grzegorz_Jarząbek.Form1.resources
+C:\Users\grzep\source\repos\testPikseli\testPikseli\obj\Debug\testPikseli.Properties.Resources.resources
+C:\Users\grzep\source\repos\testPikseli\testPikseli\obj\Debug\Projekt 1 - Grzegorz Jarząbek.csproj.GenerateResource.cache
+C:\Users\grzep\source\repos\testPikseli\testPikseli\obj\Debug\Projekt 1 - Grzegorz Jarząbek.csproj.CoreCompileInputs.cache
+C:\Users\grzep\source\repos\testPikseli\testPikseli\obj\Debug\testPikseli.exe
+C:\Users\grzep\source\repos\testPikseli\testPikseli\obj\Debug\testPikseli.pdb
+C:\Users\grzep\source\repos\Projekt 1 - Grzegorz Jarząbek\Projekt 1 - Grzegorz Jarząbek\bin\Debug\testPikseli.exe.config
+C:\Users\grzep\source\repos\Projekt 1 - Grzegorz Jarząbek\Projekt 1 - Grzegorz Jarząbek\bin\Debug\testPikseli.exe
+C:\Users\grzep\source\repos\Projekt 1 - Grzegorz Jarząbek\Projekt 1 - Grzegorz Jarząbek\bin\Debug\testPikseli.pdb
+C:\Users\grzep\source\repos\Projekt 1 - Grzegorz Jarząbek\Projekt 1 - Grzegorz Jarząbek\obj\Debug\Projekt 1 - Grzegorz Jarząbek.csprojAssemblyReference.cache
+C:\Users\grzep\source\repos\Projekt 1 - Grzegorz Jarząbek\Projekt 1 - Grzegorz Jarząbek\obj\Debug\Projekt_1_Grzegorz_Jarząbek.Form1.resources
+C:\Users\grzep\source\repos\Projekt 1 - Grzegorz Jarząbek\Projekt 1 - Grzegorz Jarząbek\obj\Debug\testPikseli.Properties.Resources.resources
+C:\Users\grzep\source\repos\Projekt 1 - Grzegorz Jarząbek\Projekt 1 - Grzegorz Jarząbek\obj\Debug\Projekt 1 - Grzegorz Jarząbek.csproj.GenerateResource.cache
+C:\Users\grzep\source\repos\Projekt 1 - Grzegorz Jarząbek\Projekt 1 - Grzegorz Jarząbek\obj\Debug\Projekt 1 - Grzegorz Jarząbek.csproj.CoreCompileInputs.cache
+C:\Users\grzep\source\repos\Projekt 1 - Grzegorz Jarząbek\Projekt 1 - Grzegorz Jarząbek\obj\Debug\testPikseli.exe
+C:\Users\grzep\source\repos\Projekt 1 - Grzegorz Jarząbek\Projekt 1 - Grzegorz Jarząbek\obj\Debug\testPikseli.pdb
